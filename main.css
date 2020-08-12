@@ -1508,8 +1508,8 @@ input, select, textarea {
 
 		#header nav {
 			position: absolute;
-			right: 0;
-			top: 0;
+			right: 1000;
+			top: 1000;
 		}
 
 			#header nav > ul {
